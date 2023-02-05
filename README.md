@@ -6,7 +6,7 @@ We will investigate what are the drivers/determining factors of **significant** 
 
 ## Target variable
 - **Significant Mann-Kendall's tau (p < 0.05)**
-  - Kendall’s Tau is a correlation suitable for quantitative and ordinal variables. 
+  - Kendall’s Tau is a correlation suitable for quantitative and ordinal variables ([reference](https://www.statisticshowto.com/poisson-regression/#:~:text=Poisson%20regression%20is%20used%20to,work%20on%20the%20Y%2Dvalue.)). 
   - It indicates how strongly 2 variables are monotonously related:
     - **to which extent are high values on variable x are associated with either high or low values on variable y?**
   - In this research question, variable x is years, variable y is population
