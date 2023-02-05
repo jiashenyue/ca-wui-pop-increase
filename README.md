@@ -43,10 +43,11 @@ We will investigate what are the drivers/determining factors of **significant** 
     - High WHP means high wildfire risk
 - **Steps to prepare the target variable**
   - [x] Already included in the original dataset
-  - [ ] Calculate Max
-  - [ ] Calculate Min
-  - [ ] Calculate Median
-  - [ ] Calculate Mean
+  - [x] Calculate Max
+  - [x] Calculate Min
+  - [x] Calculate Median
+  - [x] Calculate Mean
+  - [x] Calculate Majority
 
 ### Wildfire Risk to Homes
 - **Meaning**
@@ -57,10 +58,3 @@ We will investigate what are the drivers/determining factors of **significant** 
   - [ ] Calculate Min
   - [ ] Calculate Median
   - [ ] Calculate Mean
-
-### Percentage of area inside WUI
-- **Meaning**
-  - A measurement of wildfire risk
-  - Higher percetentage inside WUI means a greater wildfire risk
-- **Steps to prepare the target variable**
-  - [ ] Need to be retrieved from the WUI data
