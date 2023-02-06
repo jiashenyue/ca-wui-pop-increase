@@ -22,20 +22,16 @@ We will investigate what are the drivers/determining factors of **significant** 
 - **Steps to prepare the target variable**
   - [x] Already included in the original dataset
 
-### Household Income
+### Median Household Income
 - **Steps to prepare the target variable**
-  - [ ] Need to be retrieved from the Esri data
-  - [ ] Calculate Max
-  - [ ] Calculate Min
-  - [ ] Calculate Median
-  - [ ] Calculate Mean
+  - [x] Need to be retrieved from the Esri data
 
 ### Rent-Own Ratio
 - **Meaning**
   - Another metric to measure house affordability
     - High rent-own ratio means lower house affordability
 - **Steps to prepare the target variable**
-  - [ ] Need to be retrieved from the Esri data
+  - [x] Need to be retrieved from the Esri data
 
 ### Wildfire Hazard Potential (WHP)
 - **Meaning**
@@ -53,8 +49,8 @@ We will investigate what are the drivers/determining factors of **significant** 
 - **Meaning**
   - A measure that integrates wildfire likelihood and intensity with generalized consequences to a home
 - **Steps to prepare the target variable**
-  - [ ] Need to be retrieved from data ([wildfirerisk.org](https://wildfirerisk.org/))
-  - [ ] Calculate Max
-  - [ ] Calculate Min
-  - [ ] Calculate Median
-  - [ ] Calculate Mean
+  - [x] Need to be retrieved from data ([wildfirerisk.org](https://wildfirerisk.org/))
+  - [x] Calculate Max
+  - [x] Calculate Min
+  - [x] Calculate Median
+  - [x] Calculate Mean
