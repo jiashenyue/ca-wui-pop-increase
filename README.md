@@ -44,5 +44,13 @@ We will investigate what are the drivers/determining factors of **significant** 
 ![image](https://github.com/jiashenyue/ca-wui-pop-increase/blob/main/diversity_index_med_home_value.png)
 
 - More ethnically diverse census tracts with population increase may have a lower per capita income, restricting the areas to purchase a home
+
 ![image](https://github.com/jiashenyue/ca-wui-pop-increase/blob/main/diversity_index_per_capita_income.png)
 
+## Model performance
+
+- Our current model cannot successfully estimate the population increasing rate inside California's high-risk wildfire zone
+- The current model and features may work better for census tracts that have an exceptionally high percent of population increase during the past 10 years, rather than all census tracts that have observed a slight population increase
+- Future improvements
+  - Test if the model performance will be better when the data is further filtered to tracts with exceptionally high percent population increase (e.g. > 10%)
+  - Adding features based on geographical location (e.g. county names)
