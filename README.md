@@ -36,8 +36,13 @@ We will investigate what are the drivers/determining factors of **significant** 
   - Increase of population increase in this region may be driven by an influx of ethnically diverse population in California
   - Combining its relationship with house affordability index, such influx may be caused by more affordable home prices in this region
 
+![image](https://github.com/jiashenyue/ca-wui-pop-increase/blob/main/percent_diversity_index.png)
+
 ### Such trend may be driven by home affordability
 
 - A highly diversed census tract tend to have a much lower median home value
+![image](https://github.com/jiashenyue/ca-wui-pop-increase/blob/main/diversity_index_med_home_value.png)
+
 - More ethnically diverse census tracts with population increase may have a lower per capita income, restricting the areas to purchase a home
+![image](https://github.com/jiashenyue/ca-wui-pop-increase/blob/main/diversity_index_per_capita_income.png)
 
