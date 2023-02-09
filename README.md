@@ -50,6 +50,8 @@ We will investigate what are the drivers/determining factors of **significant** 
 ## Model performance
 
 - Our current model cannot successfully estimate the population increasing rate inside California's high-risk wildfire zone
+  - Training R^2: 0.485
+  - Test R^2: 0.122
 - The current model and features may work better for census tracts that have an exceptionally high percent of population increase during the past 10 years, rather than all census tracts that have observed a slight population increase
 - Future improvements
   - Test if the model performance will be better when the data is further filtered to tracts with exceptionally high percent population increase (e.g. > 10%)
